@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.voice {
+  width: 100px;
+  height: 100px;
+  background: green;
+  border-radius: 100%;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+.voice span {
+  position: absolute;
+  top: 40px;
+  left: 20px;
+  color: white;
+}
